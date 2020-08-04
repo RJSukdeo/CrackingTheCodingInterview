@@ -1,0 +1,10 @@
+/.idea/workspace.xml
+*.class
+/build/classes/
+/build/generated/
+/build/resources/
+/build/tmp/
+/build/reports
+/build/distributions
+/build/scripts
+/out/
